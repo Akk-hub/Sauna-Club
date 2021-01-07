@@ -1,2 +1,2 @@
 # Sauna-Club
-Sauna is best!
+Sauna is the best!
