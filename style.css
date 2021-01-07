@@ -18,7 +18,7 @@ body {
 }
 
 .carousel-image {
-  background: url("../images/finnish-sauna-776997.jpg");
+  background: url("finnish-sauna-776997.jpg");
   background-color: rgba(79, 68, 68, 0.9);
   background-size: cover;
 }
@@ -26,7 +26,7 @@ body {
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url("../images/north-star-2869817.jpg");
+  background: url("north-star-2869817.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -45,7 +45,7 @@ body {
 #video-play {
   position: relative;
   min-height: 200px;
-  background: url("../images/impala-5873636.jpg");
+  background: url("impala-5873636.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: -600px;
