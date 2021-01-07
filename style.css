@@ -1,0 +1,58 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar.nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar-nav .nav-link.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 600px;
+}
+
+.carousel-image {
+  background: url("../images/finnish-sauna-776997.jpg");
+  background-color: rgba(79, 68, 68, 0.9);
+  background-size: cover;
+}
+
+#home-heading {
+  position: relative;
+  min-height: 200px;
+  background: url("../images/north-star-2869817.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+.dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background: url("../images/impala-5873636.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: -600px;
+  text-align: center;
+  color: #fff;
+}
+
+#video-play a {
+  color: #fff;
+}
