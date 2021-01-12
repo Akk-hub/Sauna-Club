@@ -14,7 +14,7 @@
 }
 
 .carousel-image {
-  background: url("../images/finnish-sauna-776997.jpg");
+  background: url("finnish-sauna-776997.jpg");
   background-color: rgba(79, 68, 68, 0.9);
   background-size: cover;
 }
@@ -22,7 +22,7 @@
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url("../images/north-star-2869817.jpg");
+  background: url("north-star-2869817.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -55,7 +55,7 @@
 
 #page-header {
   height: 150px;
-  background: url("../images/pool-3001209.jpg");
+  background: url("pool-3001209.jpg");
   background-position: 0 360px;
   background-attachment: fixed;
   color: #fff;
